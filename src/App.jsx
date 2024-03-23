@@ -8,8 +8,9 @@ const App = () => {
 
   return (
     <div>
+      <h1 className="text-green-300">hello</h1>
       {/* <BillDetails /> */}
-      <BillWithInch />
+      {/* <BillWithInch /> */}
       {/* <ImageToText /> */}
       {/* <BillWithMM /> */}
     </div>
